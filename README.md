@@ -1,5 +1,5 @@
 # Connectivity Test Service - CTS
-Small Python application that recives http GET request for URL that is passed as parameter
+Small Python application that recives http GET request for URL that is passed as parameter __url__
 
 CTS application is packe with Docekrfile and deployed to Google GKE cluster. Application is exposed as Kubernetes service.
 
