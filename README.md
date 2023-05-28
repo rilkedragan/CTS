@@ -1,7 +1,7 @@
 # Connectivity Test Service - CTS
 Small Python application that recieves http GET request for URL that is passed as parameter __url__
 
-CTS application is packed with Docekrfile and deployed to Google GKE cluster. Application is exposed as Kubernetes service.
+CTS application is packed with Dockerfile and deployed to Google GKE cluster. Application is exposed as Kubernetes service.
 
 Building Docker image:
  
